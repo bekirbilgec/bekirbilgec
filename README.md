@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Bekir Bilgeç! 👋</h1>
-<h3 align="center">AWS Certified Cloud Practitioner & DevOps Engineer</h3>
+<h1 align="center">Cloud & DevOps Engineer</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bekirbilgec/">
