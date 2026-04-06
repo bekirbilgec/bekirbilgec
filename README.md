@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba, Ben Bekir Bilgeç! 👋</h1>
+<h1 align="center">Hi there, I'm Bekir Bilgeç! 👋</h1>
 <h3 align="center">AWS Certified Cloud Practitioner & DevOps Engineer</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bekirbilgec/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:emailadresin@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
@@ -18,17 +18,17 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-IT sektöründe **8 yılı aşkın**, DevOps Mühendisi olarak ise **2+ yıllık uygulamalı deneyime** sahip bir profesyonelim. **AWS Certified Cloud Practitioner** sertifikasına sahibim.
+I am an IT professional with **8+ years of experience** and a skilled **DevOps Engineer with 2+ years of hands-on experience**. I hold an **AWS Certified Cloud Practitioner** certification.
 
-* ☁️ **AWS** üzerinde görev kritik (mission-critical) dağıtımları destekliyor, otomatikleştiriyor ve optimize ediyorum.
-* ⚙️ Konfigürasyon yönetimi, **CI/CD** boru hatları (pipelines) ve modern DevOps süreçlerinden aktif olarak faydalanıyorum.
-* 📊 Proje yönetimi aracı olarak **Jira**'yı kullanıyor ve süreçleri **Agile (Çevik)** metodolojiye uygun olarak yürütüyorum.
+* ☁️ I support, automate, and optimize mission-critical deployments in **AWS**.
+* ⚙️ I actively leverage configuration management, **CI/CD** pipelines, and modern DevOps processes.
+* 📊 I utilize **Jira** as a tool for project management, alongside implementing **Agile** methodology as a project management approach.
 
 ---
 
-## 🛠️ Tech Skills (Teknik Yetenekler)
+## 🛠️ Tech Skills
 
 **Cloud & DevOps:**
 <p align="left">
@@ -45,20 +45,18 @@ IT sektöründe **8 yılı aşkın**, DevOps Mühendisi olarak ise **2+ yıllık
   <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
 </p>
 
-*(Not: Kullandığın ek teknolojiler varsa -örn. Terraform, Kubernetes, Linux, Python vb.- buraya ekleyebilirsin.)*
+---
+
+## 🧠 Soft Skills
+
+* 🔄 **Highly Adaptable & Flexible:** I value teamwork while also thriving in independent work settings.
+* 🧩 **Exceptional Problem-Solving:** I have the ability to quickly analyze complex issues and deliver effective, high-quality solutions.
+* 🤹 **Multitasking:** Capable of handling multiple tasks simultaneously and prioritizing them efficiently.
+* ⏱️ **Excellent Time Management:** I possess strong abilities in planning, organizing workflows, and utilizing time effectively to meet project goals.
 
 ---
 
-## 🧠 Soft Skills (Kişisel Yetkinlikler)
-
-* 🔄 **Yüksek Adaptasyon ve Esneklik:** Değişen koşullara hızla uyum sağlar, bireysel çalışmalarda olduğu kadar takım çalışmalarında da yüksek performans gösteririm.
-* 🧩 **Problem Çözme (Problem-Solving):** Karşılaşılan teknik ve operasyonel sorunlara olağanüstü hızda ve kalitede etkili çözümler üretirim.
-* 🤹 **Çoklu Görev (Multitasking):** Aynı anda birden fazla görevi önceliklendirerek (multitasking) başarılı bir şekilde yönetebilirim.
-* ⏱️ **Zaman Yönetimi:** Süreçleri planlama, otonom çalışma ve zamanı en verimli şekilde kullanma konusunda mükemmel becerilere sahibim.
-
----
-
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/bekirbilgec">
