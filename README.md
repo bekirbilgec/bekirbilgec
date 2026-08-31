@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am an IT professional with **8+ years of experience** and a skilled **DevOps Engineer with 2+ years of hands-on experience**. I hold an **AWS Certified Cloud Practitioner** certification.
+I am an IT professional with **8+ years of experience** and a skilled **DevOps Engineer with 3+ years of hands-on experience**. I hold an **AWS Certified Cloud Practitioner** certification.
 
 * ☁️ I support, automate, and optimize mission-critical deployments in **AWS**.
 * ⚙️ I actively leverage configuration management, **CI/CD** pipelines, and modern DevOps processes.
