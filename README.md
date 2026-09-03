@@ -11,7 +11,7 @@
 
 ---
 
-8+ years in IT, 3+ years focused on cloud infrastructure and DevOps. I design and operate multi-cloud environments, build CI/CD pipelines, and automate everything that can be automated — with a bias toward reliability and zero-downtime deployments.
+8+ years in IT, 4+ years focused on cloud infrastructure and DevOps. I design and operate multi-cloud environments, build CI/CD pipelines, and automate everything that can be automated — with a bias toward reliability and zero-downtime deployments.
 
 Currently at **DAXAP**, managing production infrastructure across AWS, Hetzner, and Google Cloud.
 
